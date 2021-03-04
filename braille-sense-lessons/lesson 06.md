@@ -1,0 +1,59 @@
+# Lesson 6: ADDRESS MANAGER
+
+The address manager is an address book. Use this feature to store, look up, and manage contact information.
+
+## Adding An Address
+
+1. Open the address manager.
+2. Press **F2** to pull down the menus. The first option is add address,
+press **ENTER** on this option.
+3. Enter information into the fields for which you have information,
+using the Up and Down arrow commands to move between fields.
+4. When you have entered all the information you have, press **ENTER**
+to save the record to the address manager.
+
+**Note**: A quick key command to enter a new address is to press **ENTER with I**.
+
+**Note**: Once you have activated the add address option, it will remain open until you choose another option from the menus. Therefore, if you need to enter multiple addresses, do so here.
+
+## Searching For Addresses
+
+When you open the address manager, it automatically goes into search mode. If you need to open the search mode just open the menu with F2 and Search for addresses is displayed, then press enter. Type the information in the field you want to use to search by, then press **ENTER**. It is possible to search for addresses using any of the fields displayed, but only results will be displayed that have this information. You will be in a list of a number of results found then the top result will appear. Use the following commands to move through all of the available results.
+
+<dl>
+<dt>Move to previous field</dt>
+<dd>space with dot 1</dd>
+<dt>Move to next field</dt>
+<dd>space with dot 4</dd>
+<dt>Move to first field</dt>
+<dd>space with dots 1-2-3</dd>
+<dt>Move to last field</dt>
+<dd>space with dots 4-5-6</dd>
+<dt>Move to the previous field in search results</dt>
+<dd>space with dot 2</dd>
+<dt>Move to next field in search results</dt>
+<dd>space with dot 5</dd>
+<dt>Move to same field type of previous record</dt>
+<dd>space with dot 3</dd>
+<dt>Move to same field type of next record</dt>
+<dd>space with dot 6</dd>
+</dl>
+
+## Commands for using contacts
+
+<dl>
+<dt>Add new contact or record</dt>
+<dd>enter with I</dd>
+<dt>Modify existing contact or record</dt>
+<dd>enter with M</dd>
+<dt>Delete existing contact or record</dt>
+<dd>space with D</dd>
+<dt>Select current record</dt>
+<dd>spacebar</dd>
+<dt>Select all records</dt>
+<dd>enter with A</dd>
+<dt>Save selected record to file</dt>
+<dd>enter with T</dd>
+</dl>
+
+**Note**: When you exit the Address Manager it will ask you if you want to backup changes. Choose "Y" for yes to save any changes you have made. If you choose no, any changes you made would not be saved.

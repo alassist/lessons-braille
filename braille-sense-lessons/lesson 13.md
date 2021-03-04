@@ -1,0 +1,3 @@
+# Lesson 13: BLUETOOTH MANAGER
+
+The Bluetooth manager is used to establish connections via Bluetooth from the Braille Sense to other devices using Bluetooth. These devices could vary from printers, speakers, keyboards, and even cellphones or tablet PC's. When you start Bluetooth manager, it automatically begins to search for Bluetooth devices. If they are found, it will display them in a list. You can connect to these devices by pressing **ENTER** on them.

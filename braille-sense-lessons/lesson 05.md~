@@ -1,0 +1,42 @@
+# Lesson 5: USING THE CALCULATOR
+
+## Starting the Calculator
+
+1. From the Main Programs menu, press the letter "U" to open the
+Utilities menu.
+2. The first option is Calculator, so press **ENTER** to open the
+Calculator.
+
+## General Commands
+
+<dl>
+<dt>Entering Numbers</dt>
+<dl>All numbers must be entered using Nemeth Braille,
+(numbers in the lower portion of the cell, without a number sign). For
+example: to enter a 5 you would press dots 2,6.</dd>
+<dt>Plus</dt>
+<dd>dots 3-4-6</dd>
+<dt>Minus</dt>
+<dd>dots 3-6</dd>
+<dt>Multiplication</dt>
+<dd>Dots 1-6</dd>
+<dt>Division</dt>
+<dd>Dots 3-4</dd>
+<dt>Percentage</dt>
+<dd>Dots 1-4-6</dd>
+<dt>Equals</dt>
+<dd>Enter</dd>
+<dt>Clear</dt>
+<dd>backspace with C</dd>
+<dt>Store to Memory</dt>
+<dd>backspace with S (type a memory name and press
+enter)</dd>
+<dt>Recall Memory</dt>
+<dd>backspace with R (use up and down arrows to select
+memory and press enter)</dd>
+</dl>
+
+NOTE: The calculator on the Braille Sense Polaris is a full
+functioning scientific calculator, use the manual or the
+context-sensitive help feature describe later in these lessons to
+learn to use the scientific features.
