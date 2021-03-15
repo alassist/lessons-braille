@@ -20,7 +20,7 @@ will open with tasks that can be performed on the current item.
 
 The user guide, which can be found on the device, in the options menu,
 or online, on Humanware’s website, has all that you need to know to
-use the device. It is made up of sections which goes over each part
+use the device. It is made up of sections which go over each part
 and app that comes with the device.
 
 ## The Tutorial

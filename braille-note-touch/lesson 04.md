@@ -3,7 +3,7 @@
 The Setup Wizards are the Braille Note Touch Plus tutorial which
 starts up and teaches you how to use the device, while letting you set
 preferences, and the Android setup wizard
-, which lets you let up your Google account and other Android options.
+, which lets you set up your Google account and other Android options.
 In this lesson, we’ll go over both of these wizards.
 
 ## The Braille Note Touch setup wizard

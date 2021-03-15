@@ -11,22 +11,23 @@ the Braille Note Touch Plus, like a Word Processor and Email program.
 This course uses the following conventions and notations:
 
 * The Braille Note Touch Plus will usually just be called “Braille
-  Note Touch,” or “Braille Note.” These two aliases are short for
-  “Braille Note Touch Plus.”
-* Keyboard commands will be bolded. For example, “press **Space with
+  Note Touch,” “Touch,” or “Braille Note.” These two aliases are short
+  for “Braille Note Touch Plus.”
+* Braille and keyboard commands will be bolded. For example, “press **Space with
   dots 1-2-3**” means “hold down the space bar, and, while holding the
-  space bar, press dots 1-2-3.”
+  space bar, press dots 1-2-3.” Keyboard commands will be shown as
+  “Press **Control + Alt + Left Arrow**, which means to hold down the
+  Control and Alt keys, then press Left Arrow, then release all keys.
 * This course assumes that the Braille Note Touch Plus is used inside
   its case, with the hardware braille keyboard within, and the Touch
   screen underneath the hardware braille keyboard. These three
-  enclosures I call layers: the case, the hardware braille keyboard,
+  enclosures this course calls layers: the case, the hardware braille keyboard,
   and the touch screen.
 * When discussing the device’s physical attributes:
-  * the “top” of the
-  device is the surface of the case, with a pocket, or the braille
-  keyboard area and braille display, or the touch screen area and
-  braille display, depending on which “layer” of the device you are
-  on.
+  * the “top” of the device is the surface of the case, with a pocket,
+    or the braille keyboard area and braille display, or the touch
+    screen area and braille display, depending on which “layer” of the
+    device you are on.
   * The bottom of the device is the area of the device that contains
     the battery compartment, feet, and camera.
   * The back of the device is the side that contains the USB ports,
@@ -43,7 +44,7 @@ This course uses the following conventions and notations:
 The Braille Note Touch has three layers when in the case, with the
 case closed. The top layer is the case, which has a pocket closed by
 Velcro which you can open to find the pocket. This can be used to hold
-flash drives or other smaller technology or items. On other side of
+flash drives or other smaller technology or items. On the other side of
 the case are magnetic flaps, which open to expose the ports and
 buttons of the Braille Note Touch. On the bottom of the device is the
 battery compartment and the camera.
@@ -54,18 +55,17 @@ pocket, and down onto the front side. There, you’ll find a flap to
 open the case. The case opens up and away from you, like a pizza box.
 
 Now, you’ve reached the second layer. This layer of the device
-contains the a hardware braille keyboard, the braille display, and
-gives access to the ports and buttons on the other sides of the
-device.
+contains the hardware braille keyboard, the braille display, and gives
+access to the ports and buttons on the other sides of the device.
 
 The hardware braille keyboard contains eight keys in a row, along with
 a long key at the front of the keyboard. These keys are the eight
 braille keys: dots 7, 3, 2, 1, 4, 5, 6, 8; and the long key is the
-Space bar. Note that dots 7 and 8 are misaligned from the other keys,
+Space bar. Note that dots 7 and 8 are not aligned to the other keys,
 to provide a more ergonomic feel. Dots 7 and 8 also act as Backspace
 and Enter, respectively, in almost all cases.
 
-In front of the keyboard are buttons across the width of the braille
+In front of the Space bar are buttons across the width of the braille
 display. There are either 18 or 32 of these buttons. These buttons are
 “cursor routing keys,” used to place the cursor over the selected
 button. For example, if you press the cursor routing button over the
@@ -79,11 +79,12 @@ one line of braille, so it must be “scrolled” or “panned” to read all
 text.
 
 The keyboard, too, can be folded open towards the back of the device,
-just like the case. Underneath the keyboard layer is the touchscreen,
-which is the device itself. This can be taken out of its case if
-needed. The touch screen is a flat surface, which can be used like a
-Brailler, or used to navigate the device using swipe gestures and
-taps.
+just like the case. There is an outcropping on the left side near the
+front of the keyboard to help with this. Underneath the keyboard layer
+is the touchscreen, which is the device itself. This can be taken out
+of its case if needed. The touch screen is a flat surface, which can
+be used like a Brailler, or used to navigate the device using swipe
+gestures and taps.
 
 If you move your hand to the top of the device, and slide your hand
 towards you until you reach the edge of the device, and then feel down
@@ -132,7 +133,7 @@ computer to the Braille Note Touch, or from the Braille Note Touch to
 the computer. Passed the USB C port is the power button. If this
 button is pressed, it locks or wakes up the device. Above the power
 button is an LED light that shows the status--on, locked, or off--of
-the device. If it is held down, it summons a screen that can be used
+the device. If the power button is held down, it summons a screen that can be used
 to entirely power off the device. Below the power button are the
 volume buttons. Volume Up is directly below the power button, while
 Volume Down is below the Volume Up key.

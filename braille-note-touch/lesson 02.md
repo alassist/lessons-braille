@@ -45,7 +45,7 @@ or Touch Braille:
 * To turn down the accessibility volume, press **Enter With Dot 1**.
 * To turn up the Music volume, press **Enter With Dot 5**.
 * To turn Music volume down, press **Enter With Dot 2**.
-* To Increase speech rate, press **Enter With Dot 6**
+* To Increase speech rate, press **Enter With Dot 6**.
 * To Decrease speech rate, press **Enter With Dot 3**.
 * To Open KeySoft Options, press **Space With O**.
 * To stop speech, press **Backspace With Enter**.
@@ -54,7 +54,7 @@ or Touch Braille:
   **Enter with n**.
 * To open Android settings, press **Enter with q**.
 * To Jump to any item in a list or on the Main Menu, Type the first
-  letter of the desired item or app
+  letter of the desired item or app.
 * To show a list of recent apps, press **Space with r** or the Recent
   Apps button.
 * To get contextual help, press **Space with h**.
@@ -73,13 +73,13 @@ or Touch Braille:
   key**.
 * To eject media, like a flash drive or SD card, press **Enter with
   e**.
-* Toggle between braille grades, press **Backspace with g**.
+* to toggle between braille grades, press **Backspace with g**.
 * To play or pause media, press **Enter with x**.
 * To rewind media, press **Backspace with dots 1-3**.
 * To fast forward media, press **Backspace with dots 4-6**.
 * To activate an item, press Enter or a Cursor Routing key above the
   current word.
-* To move to the previous item, press BACKSPACE, Previous or **space
+* To move to the previous item, press BACKSPACE, Previous, or **space
   with dot 1**.
 * To move to the next item, press space, next, or **Space with dot
   4**.
@@ -87,7 +87,7 @@ or Touch Braille:
   thumb key.
 * To move to the first visual item on screen, press **Enter with dots
   1-3**.
-* To move to the last item on the screen, press **Enter with dots
+* To move to the last visual item on the screen, press **Enter with dots
   4-6**.
 * To scroll up a list, press **ENTER with DOTS 1-2-6**.
 * To scroll down a list, press **Enter with dots 3-4-5**.
@@ -100,7 +100,7 @@ or Touch Braille:
   4-5**.
 * To move to the previous Android window, press **Backspace with
   1-2**.
-* To perform a long press, press **Backspace with dots 1-3-4**.
+* To perform a long press, press **Backspace with dots 1-2-3**.
 * To read the time, press **Enter with t**.
 * to read the date, press **Enter with d**.
 * To read the battery power, press **Enter with p**.
@@ -207,4 +207,3 @@ Using the Previous and Next thumb keys, on the far left and far right
 side of the front of the device, one can navigate to the previous or
 next item. To activate the item you’re on, press one of the cursor
 routing buttons above the item that you want to activate.
-k
