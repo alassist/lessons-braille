@@ -107,3 +107,21 @@ document. You can do so using the following commands:
 
 #### Selecting Text
 
+Text can be selected by “marking” the beginning or the text, and
+moving to the end of where you want the selection to be. To begin
+selection, press **Enter with s** to mark the start of selection.
+Then, move to where you want the selection to end, and press **Enter
+with s** again to end selection. The text is selected, and the next
+action performed will be on the block of selected text. Use the
+following commands to act upon the selected text:
+
+* To delete the selected text, press Backspace.
+* To cut text, press **Backspace with x**.
+* To copy text, press **Backspace with y**.
+* To paste text, press **Backspace with v**.
+* To select all text, press **Enter with dots 1-2-3-4-5-6**.
+
+## Formatting text
+
+You confined formatting commands in the context menu by pressing
+**Space with m (Dots 1-3-4)**.
