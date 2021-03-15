@@ -1,4 +1,4 @@
-# The Word Processor
+# Writing Documents
 
 The Word Processor, called Keyword, is a document editing app. It is
 similar to Google Docs, Microsoft Word, or LibreOffice. It is not as
